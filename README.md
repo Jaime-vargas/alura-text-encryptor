@@ -25,3 +25,6 @@ Las "llaves" de encriptación  utilizadas son las siguientes:
 - La letra "a" es convertida para "ai"
 - La letra "o" es convertida para "ober"
 - La letra "u" es convertida para "ufat"
+
+![image](https://github.com/Jaime-vargas/alura-text-encryptor/assets/132595722/3216b6a1-8f25-4d5e-9038-f821f844b061)
+![image](https://github.com/Jaime-vargas/alura-text-encryptor/assets/132595722/7a813e52-aab9-46f3-b4f0-479dae2aaf33)
